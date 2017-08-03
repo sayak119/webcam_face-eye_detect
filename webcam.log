@@ -1,0 +1,940 @@
+INFO:root:faces: 1 at 2017-07-18 00:05:05.563933
+INFO:root:faces: 0 at 2017-07-18 00:05:05.714534
+INFO:root:faces: 1 at 2017-07-18 00:05:06.181365
+INFO:root:faces: 2 at 2017-07-18 00:05:06.398525
+INFO:root:faces: 1 at 2017-07-18 00:05:06.502309
+INFO:root:faces: 2 at 2017-07-18 00:05:06.607159
+INFO:root:faces: 1 at 2017-07-18 00:05:06.817126
+INFO:root:faces: 0 at 2017-07-18 00:05:06.928312
+INFO:root:faces: 1 at 2017-07-18 00:05:07.034538
+INFO:root:faces: 0 at 2017-07-18 00:05:07.340493
+INFO:root:faces: 1 at 2017-07-18 00:05:07.447821
+INFO:root:faces: 2 at 2017-07-18 00:05:10.166637
+INFO:root:faces: 1 at 2017-07-18 00:05:10.274079
+INFO:root:faces: 2 at 2017-07-18 00:05:10.381966
+INFO:root:faces: 1 at 2017-07-18 00:05:10.492650
+INFO:root:faces: 2 at 2017-07-18 00:05:11.679536
+INFO:root:faces: 1 at 2017-07-18 00:05:11.788195
+INFO:root:faces: 2 at 2017-07-18 00:05:12.437109
+INFO:root:faces: 1 at 2017-07-18 00:05:12.541820
+INFO:root:faces: 2 at 2017-07-18 00:05:12.647256
+INFO:root:faces: 1 at 2017-07-18 00:05:12.755857
+INFO:root:faces: 2 at 2017-07-18 00:05:13.187105
+INFO:root:faces: 1 at 2017-07-18 00:05:13.297103
+INFO:root:faces: 2 at 2017-07-18 00:05:13.754558
+INFO:root:faces: 1 at 2017-07-18 00:05:13.865423
+INFO:root:faces: 2 at 2017-07-18 00:05:15.058221
+INFO:root:faces: 1 at 2017-07-18 00:05:15.162351
+INFO:root:faces: 2 at 2017-07-18 00:05:15.897157
+INFO:root:faces: 1 at 2017-07-18 00:05:16.005681
+INFO:root:faces: 2 at 2017-07-18 00:05:16.433922
+INFO:root:faces: 1 at 2017-07-18 00:05:16.537255
+INFO:root:faces: 0 at 2017-07-18 00:05:17.837397
+INFO:root:faces: 1 at 2017-07-18 00:05:18.301405
+INFO:root:faces: 0 at 2017-07-18 00:05:20.172653
+INFO:root:faces: 1 at 2017-07-18 00:05:20.361564
+INFO:root:faces: 0 at 2017-07-18 00:05:20.947476
+INFO:root:faces: 1 at 2017-07-18 00:05:22.074566
+INFO:root:faces: 0 at 2017-07-18 00:05:22.254803
+INFO:root:faces: 1 at 2017-07-18 00:05:22.529288
+INFO:root:faces: 0 at 2017-07-18 00:05:23.181857
+INFO:root:faces: 1 at 2017-07-18 00:05:23.363047
+INFO:root:faces: 0 at 2017-07-18 00:05:23.453479
+INFO:root:faces: 1 at 2017-07-18 00:05:23.912176
+INFO:root:faces: 0 at 2017-07-18 00:05:24.010566
+INFO:root:faces: 1 at 2017-07-18 00:05:24.104971
+INFO:root:faces: 0 at 2017-07-18 00:05:24.207397
+INFO:root:faces: 1 at 2017-07-18 00:05:24.314681
+INFO:root:faces: 0 at 2017-07-18 00:05:26.088746
+INFO:root:faces: 1 at 2017-07-18 00:05:26.199497
+INFO:root:faces: 0 at 2017-07-18 00:05:26.313161
+INFO:root:faces: 1 at 2017-07-18 00:05:26.422344
+INFO:root:faces: 0 at 2017-07-18 00:05:26.533001
+INFO:root:faces: 1 at 2017-07-18 00:05:26.641325
+INFO:root:faces: 2 at 2017-07-18 00:05:26.748644
+INFO:root:faces: 1 at 2017-07-18 00:05:26.856148
+INFO:root:faces: 0 at 2017-07-18 00:05:26.961059
+INFO:root:faces: 1 at 2017-07-18 00:05:28.674262
+INFO:root:faces: 0 at 2017-07-18 00:05:28.766211
+INFO:root:faces: 1 at 2017-07-18 00:05:30.289435
+INFO:root:faces: 0 at 2017-07-18 00:05:30.390515
+INFO:root:faces: 1 at 2017-07-18 00:05:30.494162
+INFO:root:faces: 2 at 2017-07-18 00:05:30.917672
+INFO:root:faces: 1 at 2017-07-18 00:05:31.029523
+INFO:root:faces: 0 at 2017-07-18 00:05:32.917837
+INFO:root:faces: 1 at 2017-07-18 00:05:33.129640
+INFO:root:faces: 0 at 2017-07-18 00:05:33.743438
+INFO:root:faces: 1 at 2017-07-18 00:05:36.879144
+INFO:root:faces: 2 at 2017-07-18 00:05:37.425112
+INFO:root:faces: 1 at 2017-07-18 00:05:37.534814
+INFO:root:faces: 2 at 2017-07-18 00:05:38.083041
+INFO:root:faces: 1 at 2017-07-18 00:05:38.188848
+INFO:root:faces: 2 at 2017-07-18 00:05:38.511433
+INFO:root:faces: 1 at 2017-07-18 00:05:38.620367
+INFO:root:faces: 2 at 2017-07-18 00:05:39.168787
+INFO:root:faces: 1 at 2017-07-18 00:05:39.274332
+INFO:root:faces: 1 at 2017-07-18 00:41:29.605018
+INFO:root:faces: 0 at 2017-07-18 00:41:34.220670
+INFO:root:faces: 1 at 2017-07-18 00:41:34.626907
+INFO:root:faces: 0 at 2017-07-18 00:41:34.695974
+INFO:root:faces: 1 at 2017-07-18 00:41:34.830426
+INFO:root:faces: 0 at 2017-07-18 00:41:34.895920
+INFO:root:faces: 1 at 2017-07-18 00:41:36.509823
+INFO:root:faces: 0 at 2017-07-18 00:41:36.576369
+INFO:root:faces: 1 at 2017-07-18 00:41:36.706428
+INFO:root:faces: 0 at 2017-07-18 00:41:36.772752
+INFO:root:faces: 1 at 2017-07-18 00:41:36.909060
+INFO:root:faces: 0 at 2017-07-18 00:41:37.041256
+INFO:root:faces: 1 at 2017-07-18 00:41:38.183614
+INFO:root:faces: 0 at 2017-07-18 00:41:38.664117
+INFO:root:faces: 1 at 2017-07-18 00:41:38.729979
+INFO:root:faces: 0 at 2017-07-18 00:41:38.928885
+INFO:root:faces: 1 at 2017-07-18 00:41:39.732898
+INFO:root:faces: 0 at 2017-07-18 00:41:39.803366
+INFO:root:faces: 1 at 2017-07-18 00:41:39.872323
+INFO:root:faces: 0 at 2017-07-18 00:41:39.941753
+INFO:root:faces: 1 at 2017-07-18 00:41:42.074482
+INFO:root:faces: 0 at 2017-07-18 00:41:42.148698
+INFO:root:faces: 1 at 2017-07-18 00:41:45.927797
+INFO:root:faces: 0 at 2017-07-18 00:41:46.012867
+INFO:root:faces: 1 at 2017-07-18 00:41:46.892845
+INFO:root:faces: 0 at 2017-07-18 00:41:47.090340
+INFO:root:faces: 1 at 2017-07-18 00:41:47.416730
+INFO:root:faces: 0 at 2017-07-18 00:41:47.548070
+INFO:root:faces: 1 at 2017-07-18 00:41:50.063730
+INFO:root:faces: 0 at 2017-07-18 00:41:50.129800
+INFO:root:faces: 1 at 2017-07-18 00:41:50.467077
+INFO:root:faces: 0 at 2017-07-18 00:41:51.133938
+INFO:root:faces: 1 at 2017-07-18 00:41:51.264973
+INFO:root:faces: 0 at 2017-07-18 00:41:53.706601
+INFO:root:faces: 1 at 2017-07-18 00:41:53.779997
+INFO:root:faces: 2 at 2017-07-18 00:41:54.278922
+INFO:root:faces: 0 at 2017-07-18 00:41:54.348638
+INFO:root:faces: 1 at 2017-07-18 00:41:54.420815
+INFO:root:faces: 0 at 2017-07-18 00:41:55.014473
+INFO:root:faces: 1 at 2017-07-18 00:41:55.396256
+INFO:root:faces: 0 at 2017-07-18 00:41:56.334147
+INFO:root:faces: 1 at 2017-07-18 00:41:56.522409
+INFO:root:faces: 0 at 2017-07-18 00:41:56.628650
+INFO:root:faces: 1 at 2017-07-18 00:41:58.099673
+INFO:root:faces: 2 at 2017-07-18 00:41:58.518997
+INFO:root:faces: 1 at 2017-07-18 00:41:58.682872
+INFO:root:faces: 2 at 2017-07-18 00:41:59.083679
+INFO:root:faces: 1 at 2017-07-18 00:41:59.166724
+INFO:root:faces: 2 at 2017-07-18 00:41:59.247385
+INFO:root:faces: 1 at 2017-07-18 00:41:59.327873
+INFO:root:faces: 2 at 2017-07-18 00:41:59.408552
+INFO:root:faces: 1 at 2017-07-18 00:41:59.734808
+INFO:root:faces: 2 at 2017-07-18 00:41:59.815564
+INFO:root:faces: 1 at 2017-07-18 00:41:59.896321
+INFO:root:faces: 2 at 2017-07-18 00:42:00.060744
+INFO:root:faces: 1 at 2017-07-18 00:42:00.142944
+INFO:root:faces: 0 at 2017-07-18 00:42:00.305796
+INFO:root:faces: 1 at 2017-07-18 00:42:01.208827
+INFO:root:faces: 0 at 2017-07-18 00:42:01.288864
+INFO:root:faces: 1 at 2017-07-18 00:42:01.535334
+INFO:root:faces: 0 at 2017-07-18 00:42:02.633447
+INFO:root:faces: 1 at 2017-07-18 00:42:04.436314
+INFO:root:faces: 0 at 2017-07-18 00:42:04.501088
+INFO:root:faces: 2 at 2017-07-18 00:42:06.138995
+INFO:root:faces: 1 at 2017-07-18 00:42:06.206723
+INFO:root:faces: 2 at 2017-07-18 00:42:06.407690
+INFO:root:faces: 1 at 2017-07-18 00:42:06.472448
+INFO:root:faces: 0 at 2017-07-18 00:42:06.542024
+INFO:root:faces: 1 at 2017-07-18 00:42:06.609923
+INFO:root:faces: 2 at 2017-07-18 00:42:07.555313
+INFO:root:faces: 1 at 2017-07-18 00:42:07.769810
+INFO:root:faces: 2 at 2017-07-18 00:42:08.043150
+INFO:root:faces: 1 at 2017-07-18 00:42:08.114394
+INFO:root:faces: 2 at 2017-07-18 00:42:08.453264
+INFO:root:faces: 1 at 2017-07-18 00:42:08.518755
+INFO:root:faces: 2 at 2017-07-18 00:42:08.659956
+INFO:root:faces: 1 at 2017-07-18 00:42:09.716459
+INFO:root:faces: 2 at 2017-07-18 00:42:09.854088
+INFO:root:faces: 1 at 2017-07-18 00:42:10.820121
+INFO:root:faces: 2 at 2017-07-18 00:42:10.887579
+INFO:root:faces: 1 at 2017-07-18 00:42:11.506007
+INFO:root:faces: 0 at 2017-07-18 00:42:11.848847
+INFO:root:faces: 1 at 2017-07-18 00:42:13.645419
+INFO:root:faces: 0 at 2017-07-18 00:42:13.711980
+INFO:root:faces: 1 at 2017-07-18 00:42:17.989581
+INFO:root:faces: 0 at 2017-07-18 00:42:19.455070
+INFO:root:faces: 1 at 2017-07-18 00:42:19.586852
+INFO:root:faces: 0 at 2017-07-18 00:42:20.453336
+INFO:root:faces: 1 at 2017-07-18 00:42:21.183743
+INFO:root:faces: 0 at 2017-07-18 00:42:21.248089
+INFO:root:faces: 1 at 2017-07-18 00:42:21.314571
+INFO:root:faces: 0 at 2017-07-18 00:42:21.442372
+INFO:root:faces: 1 at 2017-07-18 00:42:21.505622
+INFO:root:faces: 0 at 2017-07-18 00:42:21.568929
+INFO:root:faces: 1 at 2017-07-18 00:42:22.535723
+INFO:root:faces: 0 at 2017-07-18 00:42:22.598256
+INFO:root:faces: 1 at 2017-07-18 00:42:22.867868
+INFO:root:faces: 0 at 2017-07-18 00:42:23.443472
+INFO:root:faces: 1 at 2017-07-18 00:42:24.297503
+INFO:root:faces: 2 at 2017-07-18 00:42:25.243383
+INFO:root:faces: 1 at 2017-07-18 00:42:25.523299
+INFO:root:faces: 0 at 2017-07-18 00:42:28.096359
+INFO:root:faces: 1 at 2017-07-18 00:42:30.349871
+INFO:root:faces: 0 at 2017-07-18 00:42:30.419332
+INFO:root:faces: 1 at 2017-07-18 00:42:32.126108
+INFO:root:faces: 0 at 2017-07-18 00:42:32.195222
+INFO:root:faces: 1 at 2017-07-18 00:42:32.328042
+INFO:root:faces: 0 at 2017-07-18 00:42:32.394007
+INFO:root:faces: 1 at 2017-07-18 00:42:32.463027
+INFO:root:faces: 0 at 2017-07-18 00:42:32.533966
+INFO:root:faces: 1 at 2017-07-18 00:42:33.022383
+INFO:root:faces: 0 at 2017-07-18 00:42:33.090818
+INFO:root:faces: 1 at 2017-07-18 00:42:33.229066
+INFO:root:faces: 0 at 2017-07-18 00:42:33.369699
+INFO:root:faces: 1 at 2017-07-18 00:42:33.919917
+INFO:root:faces: 0 at 2017-07-18 00:42:33.991064
+INFO:root:faces: 1 at 2017-07-18 00:42:34.678960
+INFO:root:faces: 0 at 2017-07-18 00:42:34.757921
+INFO:root:faces: 1 at 2017-07-18 00:42:35.447226
+INFO:root:faces: 0 at 2017-07-18 00:42:35.517171
+INFO:root:faces: 1 at 2017-07-18 00:42:41.223889
+INFO:root:faces: 0 at 2017-07-18 00:42:42.035905
+INFO:root:faces: 1 at 2017-07-18 00:42:42.107916
+INFO:root:faces: 0 at 2017-07-18 00:42:42.251802
+INFO:root:faces: 1 at 2017-07-18 00:42:42.325994
+INFO:root:faces: 0 at 2017-07-18 00:42:42.396170
+INFO:root:faces: 1 at 2017-07-18 00:42:42.749335
+INFO:root:faces: 0 at 2017-07-18 00:42:42.823761
+INFO:root:faces: 1 at 2017-07-18 00:42:43.638257
+INFO:root:faces: 0 at 2017-07-18 00:42:43.703900
+INFO:root:faces: 1 at 2017-07-18 00:42:44.043309
+INFO:root:faces: 0 at 2017-07-18 00:42:44.176841
+INFO:root:faces: 1 at 2017-07-18 00:42:44.860623
+INFO:root:faces: 0 at 2017-07-18 00:42:44.923456
+INFO:root:faces: 1 at 2017-07-18 00:42:46.185422
+INFO:root:faces: 0 at 2017-07-18 00:42:46.240266
+INFO:root:faces: 1 at 2017-07-18 00:42:46.407284
+INFO:root:faces: 0 at 2017-07-18 00:42:46.579030
+INFO:root:faces: 1 at 2017-07-18 00:42:46.910528
+INFO:root:faces: 0 at 2017-07-18 00:42:46.964462
+INFO:root:faces: 1 at 2017-07-18 00:42:47.220524
+INFO:root:faces: 0 at 2017-07-18 00:42:49.602829
+INFO:root:faces: 1 at 2017-07-18 00:42:49.754638
+INFO:root:faces: 1 at 2017-07-19 23:01:31.263584
+INFO:root:faces: 3 at 2017-07-19 23:01:31.442636
+INFO:root:faces: 1 at 2017-07-19 23:01:31.528360
+INFO:root:faces: 2 at 2017-07-19 23:01:31.835887
+INFO:root:faces: 1 at 2017-07-19 23:01:32.045814
+INFO:root:faces: 2 at 2017-07-19 23:01:32.253272
+INFO:root:faces: 1 at 2017-07-19 23:01:32.391035
+INFO:root:faces: 2 at 2017-07-19 23:01:32.458945
+INFO:root:faces: 1 at 2017-07-19 23:01:32.526710
+INFO:root:faces: 2 at 2017-07-19 23:01:32.664105
+INFO:root:faces: 1 at 2017-07-19 23:01:32.731817
+INFO:root:faces: 2 at 2017-07-19 23:01:32.800381
+INFO:root:faces: 1 at 2017-07-19 23:01:32.868665
+INFO:root:faces: 2 at 2017-07-19 23:01:32.935902
+INFO:root:faces: 1 at 2017-07-19 23:01:33.073820
+INFO:root:faces: 2 at 2017-07-19 23:01:33.146802
+INFO:root:faces: 1 at 2017-07-19 23:01:33.282026
+INFO:root:faces: 2 at 2017-07-19 23:01:33.349822
+INFO:root:faces: 1 at 2017-07-19 23:01:33.485700
+INFO:root:faces: 2 at 2017-07-19 23:01:33.552025
+INFO:root:faces: 1 at 2017-07-19 23:01:33.752798
+INFO:root:faces: 1 at 2017-07-21 00:54:05.104069
+INFO:root:faces: 0 at 2017-07-21 00:54:05.167842
+INFO:root:faces: 1 at 2017-07-21 00:54:07.096295
+INFO:root:faces: 0 at 2017-07-21 00:54:07.720245
+INFO:root:faces: 1 at 2017-07-21 00:54:07.852158
+INFO:root:faces: 0 at 2017-07-21 00:54:07.918836
+INFO:root:faces: 1 at 2017-07-21 00:54:07.987903
+INFO:root:faces: 0 at 2017-07-21 00:54:08.578036
+INFO:root:faces: 1 at 2017-07-21 00:54:08.651079
+INFO:root:faces: 0 at 2017-07-21 00:54:08.887823
+INFO:root:faces: 1 at 2017-07-21 00:54:09.516388
+INFO:root:faces: 0 at 2017-07-21 00:54:09.582493
+INFO:root:faces: 1 at 2017-07-21 00:54:12.666111
+INFO:root:faces: 0 at 2017-07-21 00:54:13.478968
+INFO:root:faces: 1 at 2017-07-21 00:54:13.817051
+INFO:root:faces: 0 at 2017-07-21 00:54:13.884832
+INFO:root:faces: 1 at 2017-07-21 00:54:13.952574
+INFO:root:faces: 0 at 2017-07-21 00:54:14.156111
+INFO:root:faces: 1 at 2017-07-21 00:54:14.288978
+INFO:root:faces: 0 at 2017-07-21 00:54:14.429923
+INFO:root:faces: 1 at 2017-07-21 00:54:14.896223
+INFO:root:faces: 0 at 2017-07-21 00:54:14.965221
+INFO:root:faces: 1 at 2017-07-21 00:54:16.712311
+INFO:root:faces: 0 at 2017-07-21 00:54:16.798494
+INFO:root:faces: 1 at 2017-07-21 00:54:19.328348
+INFO:root:faces: 0 at 2017-07-21 00:54:19.382903
+INFO:root:faces: 1 at 2017-07-21 00:54:19.438100
+INFO:root:faces: 0 at 2017-07-21 00:54:19.669245
+INFO:root:faces: 1 at 2017-07-21 00:54:19.727599
+INFO:root:faces: 0 at 2017-07-21 00:54:19.843249
+INFO:root:faces: 1 at 2017-07-21 00:54:19.897467
+INFO:root:faces: 0 at 2017-07-21 00:54:20.171938
+INFO:root:faces: 1 at 2017-07-21 03:23:30.805953
+INFO:root:faces: 0 at 2017-07-21 03:23:32.395610
+INFO:root:faces: 1 at 2017-07-21 03:23:32.524440
+INFO:root:faces: 0 at 2017-07-21 03:23:32.609560
+INFO:root:faces: 1 at 2017-07-21 03:23:32.699530
+INFO:root:faces: 0 at 2017-07-21 03:23:32.793865
+INFO:root:faces: 1 at 2017-07-21 03:23:33.322486
+INFO:root:faces: 0 at 2017-07-21 03:23:33.367813
+INFO:root:faces: 1 at 2017-07-21 03:23:33.922758
+INFO:root:faces: 0 at 2017-07-21 03:23:33.965467
+INFO:root:faces: 1 at 2017-07-21 03:23:35.544277
+INFO:root:faces: 0 at 2017-07-21 03:23:35.667938
+INFO:root:faces: 1 at 2017-07-21 03:23:35.710995
+INFO:root:faces: 0 at 2017-07-21 03:23:36.030543
+INFO:root:faces: 1 at 2017-07-21 03:23:36.075186
+INFO:root:faces: 0 at 2017-07-21 03:23:36.201940
+INFO:root:faces: 1 at 2017-07-21 03:23:36.245231
+INFO:root:faces: 0 at 2017-07-21 03:23:36.375360
+INFO:root:faces: 1 at 2017-07-21 03:23:36.421360
+INFO:root:faces: 0 at 2017-07-21 03:23:36.610088
+INFO:root:faces: 1 at 2017-07-21 03:23:36.650457
+INFO:root:faces: 0 at 2017-07-21 03:23:36.694485
+INFO:root:faces: 1 at 2017-07-21 03:23:36.745826
+INFO:root:faces: 0 at 2017-07-21 03:23:36.879216
+INFO:root:faces: 1 at 2017-07-21 03:25:17.461981
+INFO:root:faces: 0 at 2017-07-21 03:25:17.953323
+INFO:root:faces: 1 at 2017-07-21 03:25:17.994881
+INFO:root:faces: 0 at 2017-07-21 03:25:18.466313
+INFO:root:faces: 1 at 2017-07-21 03:25:18.509988
+INFO:root:faces: 0 at 2017-07-21 03:25:18.634560
+INFO:root:faces: 1 at 2017-07-21 03:25:18.678505
+INFO:root:faces: 0 at 2017-07-21 03:25:18.719846
+INFO:root:faces: 1 at 2017-07-21 03:25:18.764531
+INFO:root:faces: 0 at 2017-07-21 03:25:18.805079
+INFO:root:faces: 1 at 2017-07-21 03:25:18.848498
+INFO:root:faces: 0 at 2017-07-21 03:25:19.163775
+INFO:root:faces: 1 at 2017-07-21 03:25:19.207380
+INFO:root:faces: 0 at 2017-07-21 03:25:19.553421
+INFO:root:faces: 1 at 2017-07-21 03:25:19.596478
+INFO:root:faces: 0 at 2017-07-21 03:25:20.027123
+INFO:root:faces: 1 at 2017-07-21 03:25:23.260919
+INFO:root:faces: 0 at 2017-07-21 03:25:23.301984
+INFO:root:faces: 1 at 2017-07-21 03:25:24.289966
+INFO:root:faces: 0 at 2017-07-21 03:25:24.328722
+INFO:root:faces: 1 at 2017-07-21 03:25:27.698343
+INFO:root:faces: 0 at 2017-07-21 03:25:27.740684
+INFO:root:faces: 1 at 2017-07-21 03:25:27.906464
+INFO:root:faces: 0 at 2017-07-21 03:25:27.947264
+INFO:root:faces: 1 at 2017-07-21 03:25:28.292940
+INFO:root:faces: 0 at 2017-07-21 03:25:28.337348
+INFO:root:faces: 1 at 2017-07-21 03:25:28.378470
+INFO:root:faces: 0 at 2017-07-21 03:25:28.420999
+INFO:root:faces: 1 at 2017-07-21 03:25:28.546462
+INFO:root:faces: 0 at 2017-07-21 03:25:28.589009
+INFO:root:faces: 1 at 2017-07-21 03:25:28.676672
+INFO:root:faces: 0 at 2017-07-21 03:25:28.719915
+INFO:root:faces: 1 at 2017-07-21 03:25:28.848698
+INFO:root:faces: 0 at 2017-07-21 03:25:28.933787
+INFO:root:faces: 1 at 2017-07-21 03:25:28.977782
+INFO:root:faces: 0 at 2017-07-21 03:25:29.065438
+INFO:root:faces: 1 at 2017-07-21 03:25:29.251140
+INFO:root:faces: 2 at 2017-07-21 03:25:29.293242
+INFO:root:faces: 1 at 2017-07-21 03:25:29.336180
+INFO:root:faces: 0 at 2017-07-21 03:25:29.379996
+INFO:root:faces: 1 at 2017-07-21 03:25:29.422675
+INFO:root:faces: 0 at 2017-07-21 03:25:29.556426
+INFO:root:faces: 1 at 2017-07-21 03:25:29.688411
+INFO:root:faces: 0 at 2017-07-21 03:25:29.816675
+INFO:root:faces: 1 at 2017-07-21 03:25:30.031627
+INFO:root:faces: 0 at 2017-07-21 03:25:30.117152
+INFO:root:faces: 1 at 2017-07-21 03:25:30.160998
+INFO:root:faces: 0 at 2017-07-21 03:25:30.246200
+INFO:root:faces: 1 at 2017-07-21 03:25:30.372847
+INFO:root:faces: 0 at 2017-07-21 03:25:30.453467
+INFO:root:faces: 1 at 2017-07-21 03:25:30.538596
+INFO:root:faces: 0 at 2017-07-21 03:25:30.582014
+INFO:root:faces: 1 at 2017-07-21 03:25:30.834810
+INFO:root:faces: 0 at 2017-07-21 03:25:30.916070
+INFO:root:faces: 1 at 2017-07-21 03:25:34.243791
+INFO:root:faces: 0 at 2017-07-21 03:25:34.280547
+INFO:root:faces: 1 at 2017-07-21 03:26:16.127367
+INFO:root:faces: 0 at 2017-07-21 03:26:16.175666
+INFO:root:faces: 1 at 2017-07-21 03:26:16.224216
+INFO:root:faces: 0 at 2017-07-21 03:26:16.465697
+INFO:root:faces: 1 at 2017-07-21 03:26:16.608293
+INFO:root:faces: 0 at 2017-07-21 03:26:16.656733
+INFO:root:faces: 1 at 2017-07-21 03:26:16.752987
+INFO:root:faces: 0 at 2017-07-21 03:26:16.982360
+INFO:root:faces: 1 at 2017-07-21 03:26:17.032493
+INFO:root:faces: 0 at 2017-07-21 03:26:17.077791
+INFO:root:faces: 1 at 2017-07-21 03:26:17.123223
+INFO:root:faces: 0 at 2017-07-21 03:26:17.260296
+INFO:root:faces: 1 at 2017-07-21 03:26:17.439414
+INFO:root:faces: 0 at 2017-07-21 03:26:17.484666
+INFO:root:faces: 1 at 2017-07-21 03:26:19.766113
+INFO:root:faces: 0 at 2017-07-21 03:26:19.809888
+INFO:root:faces: 1 at 2017-07-21 03:26:24.236374
+INFO:root:faces: 0 at 2017-07-21 03:26:24.282500
+INFO:root:faces: 1 at 2017-07-21 03:26:24.327728
+INFO:root:faces: 2 at 2017-07-21 03:26:24.369063
+INFO:root:faces: 1 at 2017-07-21 03:26:24.453282
+INFO:root:faces: 0 at 2017-07-21 03:26:24.663840
+INFO:root:faces: 1 at 2017-07-21 03:26:28.303001
+INFO:root:faces: 0 at 2017-07-21 03:26:28.349807
+INFO:root:faces: 1 at 2017-07-21 03:26:28.440113
+INFO:root:faces: 0 at 2017-07-21 03:26:28.677901
+INFO:root:faces: 1 at 2017-07-21 03:26:30.172016
+INFO:root:faces: 2 at 2017-07-21 03:26:30.868223
+INFO:root:faces: 1 at 2017-07-21 03:26:31.262944
+INFO:root:faces: 2 at 2017-07-21 03:26:31.391890
+INFO:root:faces: 1 at 2017-07-21 03:26:31.738116
+INFO:root:faces: 2 at 2017-07-21 03:26:31.861584
+INFO:root:faces: 1 at 2017-07-21 03:26:31.922552
+INFO:root:faces: 2 at 2017-07-21 03:26:32.485441
+INFO:root:faces: 1 at 2017-07-21 03:26:32.607012
+INFO:root:faces: 0 at 2017-07-21 03:26:32.805190
+INFO:root:faces: 1 at 2017-07-21 03:26:32.946097
+INFO:root:faces: 0 at 2017-07-21 03:26:33.289832
+INFO:root:faces: 1 at 2017-07-21 03:26:35.187990
+INFO:root:faces: 0 at 2017-07-21 03:26:36.114398
+INFO:root:faces: 1 at 2017-07-21 03:26:36.297565
+INFO:root:faces: 0 at 2017-07-21 03:26:36.340868
+INFO:root:faces: 1 at 2017-07-21 03:26:36.826228
+INFO:root:faces: 0 at 2017-07-21 03:26:36.869885
+INFO:root:faces: 1 at 2017-07-21 03:26:37.136289
+INFO:root:faces: 0 at 2017-07-21 03:26:37.177937
+INFO:root:faces: 1 at 2017-07-21 03:26:37.263565
+INFO:root:faces: 0 at 2017-07-21 03:26:37.309085
+INFO:root:faces: 1 at 2017-07-21 03:26:37.392548
+INFO:root:faces: 0 at 2017-07-21 03:26:37.433748
+INFO:root:faces: 1 at 2017-07-21 03:26:40.692286
+INFO:root:faces: 0 at 2017-07-21 03:26:40.734756
+INFO:root:faces: 1 at 2017-07-21 03:26:40.816179
+INFO:root:faces: 0 at 2017-07-21 03:26:40.857893
+INFO:root:faces: 1 at 2017-07-21 03:26:40.899252
+INFO:root:faces: 0 at 2017-07-21 03:26:40.939339
+INFO:root:faces: 1 at 2017-07-21 03:26:41.065003
+INFO:root:faces: 0 at 2017-07-21 03:26:41.105943
+INFO:root:faces: 1 at 2017-07-21 03:26:41.185242
+INFO:root:faces: 0 at 2017-07-21 03:26:41.225873
+INFO:root:faces: 1 at 2017-07-21 03:26:46.912155
+INFO:root:faces: 0 at 2017-07-21 03:26:46.957277
+INFO:root:faces: 1 at 2017-07-21 03:26:54.415242
+INFO:root:faces: 0 at 2017-07-21 03:26:54.475913
+INFO:root:faces: 1 at 2017-07-21 03:26:54.536914
+INFO:root:faces: 0 at 2017-07-21 03:26:54.596675
+INFO:root:faces: 1 at 2017-07-21 03:26:54.657249
+INFO:root:faces: 0 at 2017-07-21 03:26:54.781586
+INFO:root:faces: 1 at 2017-07-21 03:26:54.900550
+INFO:root:faces: 0 at 2017-07-21 03:26:54.959867
+INFO:root:faces: 1 at 2017-07-21 03:26:55.026182
+INFO:root:faces: 0 at 2017-07-21 03:26:55.087535
+INFO:root:faces: 1 at 2017-07-21 03:26:55.387047
+INFO:root:faces: 0 at 2017-07-21 03:26:55.447492
+INFO:root:faces: 1 at 2017-07-21 03:26:55.745217
+INFO:root:faces: 0 at 2017-07-21 03:26:55.873077
+INFO:root:faces: 1 at 2017-07-21 03:27:01.397712
+INFO:root:faces: 0 at 2017-07-21 03:27:01.446753
+INFO:root:faces: 1 at 2017-07-21 03:27:01.494546
+INFO:root:faces: 0 at 2017-07-21 03:27:01.594662
+INFO:root:faces: 1 at 2017-07-21 03:27:01.698785
+INFO:root:faces: 0 at 2017-07-21 03:27:01.753276
+INFO:root:faces: 1 at 2017-07-21 03:27:02.037253
+INFO:root:faces: 0 at 2017-07-21 03:27:02.125864
+INFO:root:faces: 1 at 2017-07-21 03:27:02.266292
+INFO:root:faces: 0 at 2017-07-21 03:27:02.322435
+INFO:root:faces: 1 at 2017-07-21 03:27:02.366944
+INFO:root:faces: 0 at 2017-07-21 03:27:02.454827
+INFO:root:faces: 1 at 2017-07-21 03:27:02.498078
+INFO:root:faces: 0 at 2017-07-21 03:27:02.687794
+INFO:root:faces: 1 at 2017-07-21 03:27:04.035690
+INFO:root:faces: 0 at 2017-07-21 03:27:04.493222
+INFO:root:faces: 1 at 2017-07-21 03:27:04.539185
+INFO:root:faces: 0 at 2017-07-21 03:27:04.911207
+INFO:root:faces: 1 at 2017-07-21 03:27:04.961575
+INFO:root:faces: 0 at 2017-07-21 03:27:05.052301
+INFO:root:faces: 1 at 2017-07-21 03:27:05.097903
+INFO:root:faces: 0 at 2017-07-21 03:27:05.237384
+INFO:root:faces: 1 at 2017-07-21 03:27:05.283906
+INFO:root:faces: 0 at 2017-07-21 03:27:05.654213
+INFO:root:faces: 1 at 2017-07-21 03:27:05.703042
+INFO:root:faces: 0 at 2017-07-21 03:27:05.748911
+INFO:root:faces: 1 at 2017-07-21 03:27:05.796534
+INFO:root:faces: 0 at 2017-07-21 03:27:05.893848
+INFO:root:faces: 1 at 2017-07-21 03:27:05.945081
+INFO:root:faces: 0 at 2017-07-21 03:27:05.989442
+INFO:root:faces: 1 at 2017-07-21 03:27:06.041481
+INFO:root:faces: 0 at 2017-07-21 03:27:06.085284
+INFO:root:faces: 1 at 2017-07-21 03:27:06.178921
+INFO:root:faces: 0 at 2017-07-21 03:27:06.225317
+INFO:root:faces: 1 at 2017-07-21 03:27:07.634361
+INFO:root:faces: 0 at 2017-07-21 03:27:07.732145
+INFO:root:faces: 1 at 2017-07-21 03:27:07.778577
+INFO:root:faces: 0 at 2017-07-21 03:27:07.823222
+INFO:root:faces: 1 at 2017-07-21 03:27:07.872374
+INFO:root:faces: 0 at 2017-07-21 03:27:07.930901
+INFO:root:faces: 1 at 2017-07-21 03:27:07.979712
+INFO:root:faces: 0 at 2017-07-21 03:27:08.029246
+INFO:root:faces: 1 at 2017-07-21 03:27:08.126524
+INFO:root:faces: 0 at 2017-07-21 03:27:08.175214
+INFO:root:faces: 1 at 2017-07-21 03:27:08.224648
+INFO:root:faces: 0 at 2017-07-21 03:27:08.472424
+INFO:root:faces: 1 at 2017-07-21 03:27:08.519137
+INFO:root:faces: 0 at 2017-07-21 03:27:08.568531
+INFO:root:faces: 1 at 2017-07-21 03:27:08.623372
+INFO:root:faces: 0 at 2017-07-21 03:27:08.671464
+INFO:root:faces: 1 at 2017-07-21 03:27:08.813211
+INFO:root:faces: 0 at 2017-07-21 03:27:08.906363
+INFO:root:faces: 1 at 2017-07-21 03:27:08.956862
+INFO:root:faces: 0 at 2017-07-21 03:27:09.577879
+INFO:root:faces: 1 at 2017-07-21 03:27:09.626307
+INFO:root:faces: 0 at 2017-07-21 03:27:10.493340
+INFO:root:faces: 1 at 2017-07-21 03:27:10.540844
+INFO:root:faces: 0 at 2017-07-21 03:27:10.779645
+INFO:root:faces: 1 at 2017-07-21 03:27:11.883467
+INFO:root:faces: 0 at 2017-07-21 03:27:11.934090
+INFO:root:faces: 1 at 2017-07-21 03:27:11.991472
+INFO:root:faces: 0 at 2017-07-21 03:27:12.090472
+INFO:root:faces: 1 at 2017-07-21 03:27:12.141105
+INFO:root:faces: 0 at 2017-07-21 03:27:12.333957
+INFO:root:faces: 1 at 2017-07-21 03:27:12.382672
+INFO:root:faces: 0 at 2017-07-21 03:27:12.479497
+INFO:root:faces: 1 at 2017-07-21 03:27:12.529282
+INFO:root:faces: 0 at 2017-07-21 03:27:12.576141
+INFO:root:faces: 1 at 2017-07-21 03:27:12.671044
+INFO:root:faces: 0 at 2017-07-21 03:27:12.721161
+INFO:root:faces: 1 at 2017-07-21 03:27:12.819748
+INFO:root:faces: 0 at 2017-07-21 03:27:13.401275
+INFO:root:faces: 1 at 2017-07-21 03:27:13.454073
+INFO:root:faces: 0 at 2017-07-21 03:27:13.945707
+INFO:root:faces: 1 at 2017-07-21 03:27:14.002679
+INFO:root:faces: 0 at 2017-07-21 03:27:14.491464
+INFO:root:faces: 1 at 2017-07-21 03:27:14.540918
+INFO:root:faces: 0 at 2017-07-21 03:27:14.586455
+INFO:root:faces: 1 at 2017-07-21 03:27:14.635017
+INFO:root:faces: 0 at 2017-07-21 03:27:14.682834
+INFO:root:faces: 1 at 2017-07-21 03:27:14.733535
+INFO:root:faces: 0 at 2017-07-21 03:27:14.785468
+INFO:root:faces: 1 at 2017-07-21 03:27:14.832822
+INFO:root:faces: 0 at 2017-07-21 03:27:14.928179
+INFO:root:faces: 1 at 2017-07-21 03:27:14.977598
+INFO:root:faces: 0 at 2017-07-21 03:27:16.245296
+INFO:root:faces: 1 at 2017-07-21 03:27:16.295237
+INFO:root:faces: 0 at 2017-07-21 03:27:16.538095
+INFO:root:faces: 1 at 2017-07-21 03:27:16.585866
+INFO:root:faces: 0 at 2017-07-21 03:27:16.827349
+INFO:root:faces: 1 at 2017-07-21 03:27:16.875442
+INFO:root:faces: 0 at 2017-07-21 03:27:17.070507
+INFO:root:faces: 1 at 2017-07-21 03:27:17.118117
+INFO:root:faces: 0 at 2017-07-21 03:27:17.164459
+INFO:root:faces: 1 at 2017-07-21 03:27:17.213392
+INFO:root:faces: 0 at 2017-07-21 03:27:17.357300
+INFO:root:faces: 1 at 2017-07-21 03:27:17.403120
+INFO:root:faces: 0 at 2017-07-21 03:27:17.497102
+INFO:root:faces: 1 at 2017-07-21 03:27:17.548917
+INFO:root:faces: 0 at 2017-07-21 03:27:17.642699
+INFO:root:faces: 1 at 2017-07-21 03:27:17.692336
+INFO:root:faces: 0 at 2017-07-21 03:27:17.932300
+INFO:root:faces: 1 at 2017-07-21 03:27:17.986660
+INFO:root:faces: 0 at 2017-07-21 03:27:18.327392
+INFO:root:faces: 1 at 2017-07-21 03:27:18.375886
+INFO:root:faces: 0 at 2017-07-21 03:27:18.422776
+INFO:root:faces: 1 at 2017-07-21 03:27:18.471224
+INFO:root:faces: 0 at 2017-07-21 03:27:18.619515
+INFO:root:faces: 1 at 2017-07-21 03:27:18.665955
+INFO:root:faces: 0 at 2017-07-21 03:27:18.907570
+INFO:root:faces: 1 at 2017-07-21 03:27:18.955369
+INFO:root:faces: 0 at 2017-07-21 03:27:19.151288
+INFO:root:faces: 1 at 2017-07-21 03:27:19.198700
+INFO:root:faces: 0 at 2017-07-21 03:27:19.243399
+INFO:root:faces: 1 at 2017-07-21 03:27:19.293500
+INFO:root:faces: 0 at 2017-07-21 03:27:19.391779
+INFO:root:faces: 1 at 2017-07-21 03:27:19.484137
+INFO:root:faces: 0 at 2017-07-21 03:27:19.770046
+INFO:root:faces: 1 at 2017-07-21 03:27:19.817070
+INFO:root:faces: 0 at 2017-07-21 03:27:20.025305
+INFO:root:faces: 1 at 2017-07-21 03:27:20.170293
+INFO:root:faces: 0 at 2017-07-21 03:27:20.465686
+INFO:root:faces: 1 at 2017-07-21 03:27:20.512070
+INFO:root:faces: 0 at 2017-07-21 03:27:20.757598
+INFO:root:faces: 1 at 2017-07-21 03:27:20.807575
+INFO:root:faces: 0 at 2017-07-21 03:27:21.786474
+INFO:root:faces: 1 at 2017-07-21 03:27:21.832931
+INFO:root:faces: 0 at 2017-07-21 03:27:21.929827
+INFO:root:faces: 1 at 2017-07-21 03:27:21.977313
+INFO:root:faces: 1 at 2017-07-21 21:44:34.317781
+INFO:root:faces: 1 at 2017-07-21 21:44:59.216694
+INFO:root:faces: 0 at 2017-07-21 21:44:59.294299
+INFO:root:faces: 1 at 2017-07-21 21:45:03.020946
+INFO:root:faces: 0 at 2017-07-21 21:45:03.105537
+INFO:root:faces: 1 at 2017-07-21 21:45:04.117948
+INFO:root:faces: 2 at 2017-07-21 21:45:05.805653
+INFO:root:faces: 1 at 2017-07-21 21:45:05.898108
+INFO:root:faces: 2 at 2017-07-21 21:45:23.900019
+INFO:root:faces: 1 at 2017-07-21 21:45:23.993847
+INFO:root:faces: 0 at 2017-07-21 21:45:24.338067
+INFO:root:faces: 1 at 2017-07-21 21:45:24.421041
+INFO:root:faces: 2 at 2017-07-21 21:45:24.696855
+INFO:root:faces: 1 at 2017-07-21 21:45:24.790349
+INFO:root:faces: 0 at 2017-07-21 21:45:25.100791
+INFO:root:faces: 1 at 2017-07-21 21:45:25.261692
+INFO:root:faces: 0 at 2017-07-21 21:45:25.341072
+INFO:root:faces: 1 at 2017-07-21 21:45:25.934035
+INFO:root:faces: 0 at 2017-07-21 21:45:26.187476
+INFO:root:faces: 1 at 2017-07-21 21:45:26.991220
+INFO:root:faces: 0 at 2017-07-21 21:45:30.946227
+INFO:root:faces: 1 at 2017-07-21 21:45:32.335459
+INFO:root:faces: 0 at 2017-07-21 21:45:41.255921
+INFO:root:faces: 1 at 2017-07-21 21:45:41.413568
+INFO:root:faces: 0 at 2017-07-21 21:45:41.488550
+INFO:root:faces: 1 at 2017-07-21 21:45:41.563265
+INFO:root:faces: 0 at 2017-07-21 21:45:41.627272
+INFO:root:faces: 1 at 2017-07-21 21:45:42.081392
+INFO:root:faces: 0 at 2017-07-21 21:45:42.152941
+INFO:root:faces: 1 at 2017-07-21 21:45:45.411401
+INFO:root:faces: 0 at 2017-07-21 21:45:45.956760
+INFO:root:faces: 1 at 2017-07-21 21:45:46.173514
+INFO:root:faces: 0 at 2017-07-21 21:45:46.946775
+INFO:root:faces: 1 at 2017-07-21 21:45:47.044213
+INFO:root:faces: 0 at 2017-07-21 21:45:47.607471
+INFO:root:faces: 1 at 2017-07-21 21:45:47.704805
+INFO:root:faces: 0 at 2017-07-21 21:45:47.768838
+INFO:root:faces: 1 at 2017-07-21 21:45:47.873783
+INFO:root:faces: 0 at 2017-07-21 21:45:48.146774
+INFO:root:faces: 1 at 2017-07-21 21:45:48.307112
+INFO:root:faces: 0 at 2017-07-21 21:45:48.574967
+INFO:root:faces: 1 at 2017-07-21 21:45:48.675962
+INFO:root:faces: 0 at 2017-07-21 21:45:48.849349
+INFO:root:faces: 1 at 2017-07-21 21:45:48.945407
+INFO:root:faces: 0 at 2017-07-21 21:45:49.115408
+INFO:root:faces: 1 at 2017-07-21 21:45:49.210912
+INFO:root:faces: 2 at 2017-07-21 21:45:49.314037
+INFO:root:faces: 1 at 2017-07-21 21:45:49.411104
+INFO:root:faces: 0 at 2017-07-21 21:45:49.570029
+INFO:root:faces: 1 at 2017-07-21 21:45:49.665730
+INFO:root:faces: 0 at 2017-07-21 21:45:50.955939
+INFO:root:faces: 1 at 2017-07-21 21:45:51.057382
+INFO:root:faces: 0 at 2017-07-21 21:45:51.425808
+INFO:root:faces: 1 at 2017-07-21 21:45:51.652886
+INFO:root:faces: 0 at 2017-07-21 21:45:51.916966
+INFO:root:faces: 1 at 2017-07-21 21:45:52.078662
+INFO:root:faces: 0 at 2017-07-21 21:45:52.524869
+INFO:root:faces: 1 at 2017-07-21 21:45:52.754595
+INFO:root:faces: 1 at 2017-07-22 02:18:51.206206
+INFO:root:faces: 0 at 2017-07-22 02:18:54.372949
+INFO:root:faces: 1 at 2017-07-22 02:18:54.431687
+INFO:root:faces: 0 at 2017-07-22 02:18:54.491891
+INFO:root:faces: 1 at 2017-07-22 02:18:54.906513
+INFO:root:faces: 0 at 2017-07-22 02:18:54.964505
+INFO:root:faces: 1 at 2017-07-22 02:18:55.843193
+INFO:root:faces: 0 at 2017-07-22 02:18:56.017266
+INFO:root:faces: 1 at 2017-07-22 02:18:56.202802
+INFO:root:faces: 0 at 2017-07-22 02:19:07.423869
+INFO:root:faces: 1 at 2017-07-22 02:19:07.530008
+INFO:root:faces: 0 at 2017-07-22 02:19:07.592737
+INFO:root:faces: 1 at 2017-07-22 02:19:07.703168
+INFO:root:faces: 0 at 2017-07-22 02:19:08.161145
+INFO:root:faces: 1 at 2017-07-22 02:19:08.491426
+INFO:root:faces: 0 at 2017-07-22 02:19:08.655798
+INFO:root:faces: 1 at 2017-07-22 02:19:08.877343
+INFO:root:faces: 0 at 2017-07-22 02:19:08.939070
+INFO:root:faces: 1 at 2017-07-22 02:19:09.221106
+INFO:root:faces: 0 at 2017-07-22 02:19:11.451163
+INFO:root:faces: 1 at 2017-07-22 02:19:11.556996
+INFO:root:faces: 0 at 2017-07-22 02:19:11.726122
+INFO:root:faces: 1 at 2017-07-22 02:19:11.890091
+INFO:root:faces: 0 at 2017-07-22 02:19:11.947763
+INFO:root:faces: 1 at 2017-07-22 02:19:12.049544
+INFO:root:faces: 0 at 2017-07-22 02:19:12.107519
+INFO:root:faces: 1 at 2017-07-22 02:19:12.278609
+INFO:root:faces: 0 at 2017-07-22 02:19:12.335933
+INFO:root:faces: 1 at 2017-07-22 02:19:12.495470
+INFO:root:faces: 0 at 2017-07-22 02:19:12.555856
+INFO:root:faces: 1 at 2017-07-22 02:19:12.656414
+INFO:root:faces: 0 at 2017-07-22 02:19:13.674670
+INFO:root:faces: 1 at 2017-07-22 02:19:13.782699
+INFO:root:faces: 0 at 2017-07-22 02:19:14.164664
+INFO:root:faces: 1 at 2017-07-22 02:19:14.277990
+INFO:root:faces: 0 at 2017-07-22 02:19:14.741645
+INFO:root:faces: 1 at 2017-07-22 02:19:14.844414
+INFO:root:faces: 0 at 2017-07-22 02:19:14.909366
+INFO:root:faces: 1 at 2017-07-22 02:19:15.022929
+INFO:root:faces: 0 at 2017-07-22 02:19:15.668458
+INFO:root:faces: 1 at 2017-07-22 02:19:15.764467
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 02:22:17.219846
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 02:22:20.272758
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 02:22:21.487942
+INFO:root:faces: 0 and eyes: 2 at 2017-07-22 02:22:21.544315
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 02:22:21.634299
+INFO:root:faces: 0 and eyes: 1 at 2017-07-22 02:22:28.006292
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 02:22:28.198687
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:28.546219
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:28.639946
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:28.733946
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:28.896329
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:29.431192
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:29.558919
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:29.689359
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:29.805809
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:29.914130
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:29.989279
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:34.522199
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:34.590926
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:34.660183
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:34.731093
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:38.186504
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:38.254801
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:47.659795
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:47.713110
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:50.112253
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:50.160382
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:50.211950
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:50.262391
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:50.625100
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:50.681746
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:08:51.879701
+INFO:root:faces: 2 and eyes: 2 at 2017-07-22 12:08:52.094058
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:08:52.163143
+INFO:root:faces: 2 and eyes: 1 at 2017-07-22 12:08:53.680661
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:53.749739
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:54.705213
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:55.852581
+INFO:root:faces: 0 and eyes: 1 at 2017-07-22 12:08:58.061163
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:59.042115
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:59.093963
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:59.242845
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:59.514846
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:59.569998
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:08:59.622485
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:08:59.790345
+INFO:root:faces: 2 and eyes: 1 at 2017-07-22 12:09:00.003371
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:00.227643
+INFO:root:faces: 0 and eyes: 0 at 2017-07-22 12:09:00.415817
+INFO:root:faces: 2 and eyes: 1 at 2017-07-22 12:09:00.593568
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:00.658793
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:00.946837
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:01.018255
+INFO:root:faces: 0 and eyes: 1 at 2017-07-22 12:09:01.209911
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:01.779579
+INFO:root:faces: 0 and eyes: 1 at 2017-07-22 12:09:01.898686
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 12:09:01.964426
+INFO:root:faces: 0 and eyes: 2 at 2017-07-22 12:09:02.023673
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 12:09:02.196028
+INFO:root:faces: 0 and eyes: 1 at 2017-07-22 12:09:02.793034
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:02.912110
+INFO:root:faces: 2 and eyes: 3 at 2017-07-22 12:09:04.594452
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:04.667544
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:05.651744
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:05.720640
+INFO:root:faces: 3 and eyes: 0 at 2017-07-22 12:09:05.940208
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:09:06.009770
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:06.082419
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:09:06.150499
+INFO:root:faces: 2 and eyes: 2 at 2017-07-22 12:09:06.986791
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:07.057507
+INFO:root:faces: 2 and eyes: 2 at 2017-07-22 12:09:07.970622
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 12:09:08.046988
+INFO:root:faces: 3 and eyes: 0 at 2017-07-22 12:09:09.408652
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:09.482167
+INFO:root:faces: 1 and eyes: 2 at 2017-07-22 12:09:10.009006
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:12.453282
+INFO:root:faces: 1 and eyes: 0 at 2017-07-22 12:09:12.519892
+INFO:root:faces: 0 and eyes: 2 at 2017-07-22 12:09:13.056965
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:13.119622
+INFO:root:faces: 2 and eyes: 1 at 2017-07-22 12:09:13.187798
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:13.326139
+INFO:root:faces: 2 and eyes: 2 at 2017-07-22 12:09:13.393990
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:13.466222
+INFO:root:faces: 2 and eyes: 0 at 2017-07-22 12:09:16.435024
+INFO:root:faces: 1 and eyes: 1 at 2017-07-22 12:09:16.513760
+INFO:root:faces: 1 and eyes: 3 at 2017-07-27 03:26:52.521888
+INFO:root:faces: 0 and eyes: 1 at 2017-07-27 03:27:00.216136
+INFO:root:faces: 1 and eyes: 2 at 2017-07-27 03:27:01.736279
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:49.148745
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:49.197769
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:49.317178
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:49.540279
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:49.599826
+INFO:root:faces: 2 and eyes: 1 at 2017-07-29 02:11:51.774528
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:11:51.852318
+INFO:root:faces: 0 and eyes: 1 at 2017-07-29 02:11:51.903079
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:11:52.137855
+INFO:root:faces: 0 and eyes: 2 at 2017-07-29 02:11:52.569326
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:11:52.698182
+INFO:root:faces: 0 and eyes: 1 at 2017-07-29 02:11:52.985357
+INFO:root:faces: 1 and eyes: 2 at 2017-07-29 02:11:53.073082
+INFO:root:faces: 0 and eyes: 1 at 2017-07-29 02:11:53.708789
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:11:53.789069
+INFO:root:faces: 0 and eyes: 1 at 2017-07-29 02:11:53.842353
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:11:53.921200
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:54.670396
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:55.169920
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:55.208597
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:55.553921
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:55.596749
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:11:58.758004
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:11:58.798819
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:01.497215
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:01.622170
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:01.672109
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:01.706592
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:02.437834
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:02.476347
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:02.684648
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:02.724488
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:03.320636
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:03.366945
+INFO:root:faces: 1 and eyes: 1 at 2017-07-29 02:12:03.743090
+INFO:root:faces: 0 and eyes: 2 at 2017-07-29 02:12:04.700108
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:05.111728
+INFO:root:faces: 2 and eyes: 0 at 2017-07-29 02:12:07.126194
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:07.193840
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:07.306046
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:07.373439
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:08.849658
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:08.984184
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:09.024496
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:09.225234
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:09.276965
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:09.980550
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:10.051130
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:10.459141
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:10.527924
+INFO:root:faces: 2 and eyes: 0 at 2017-07-29 02:12:10.598932
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:10.664572
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:11.011075
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:11.083206
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:11.290914
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:11.362175
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:11.788830
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:11.934307
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:12.154279
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:12.222674
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:12.429854
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:12.499321
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:12.637065
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:12.705932
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:12.775581
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:12.846867
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:12.982367
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:13.053864
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:13.124030
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:13.193519
+INFO:root:faces: 1 and eyes: 0 at 2017-07-29 02:12:13.333567
+INFO:root:faces: 0 and eyes: 0 at 2017-07-29 02:12:13.539766
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:50.670584
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:50.751246
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:50.817811
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:50.869632
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:51.958511
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:52.013410
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:52.079797
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:44:53.194881
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:44:53.276484
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:44:53.332447
+INFO:root:faces: 1 and eyes: 2 at 2017-07-30 13:44:53.413863
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:44:54.031546
+INFO:root:faces: 1 and eyes: 2 at 2017-07-30 13:44:54.327341
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:44:54.459121
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:56.144385
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:56.196519
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:56.264596
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:56.315045
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:56.723194
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:57.013650
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:44:57.511575
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:44:57.791247
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:57.905069
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:57.963289
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:44:58.478162
+INFO:root:faces: 2 and eyes: 0 at 2017-07-30 13:44:58.555049
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:58.622290
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:44:58.673591
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:44:59.143904
+INFO:root:faces: 0 and eyes: 2 at 2017-07-30 13:44:59.745014
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:01.375840
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:01.506224
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:02.443856
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:02.506638
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:03.657842
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:03.723184
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:05.022759
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:05.319202
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:05.448436
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:05.859696
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:06.305743
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:06.900634
+INFO:root:faces: 2 and eyes: 1 at 2017-07-30 13:45:07.999620
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:08.379817
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:08.439199
+INFO:root:faces: 2 and eyes: 1 at 2017-07-30 13:45:09.423259
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:45:09.600125
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:09.656315
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:45:09.732373
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:09.864673
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:09.940613
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:10.296582
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:45:10.448892
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:10.510182
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:10.585827
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:10.789148
+INFO:root:faces: 2 and eyes: 1 at 2017-07-30 13:45:10.880781
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:10.934575
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:45:11.118772
+INFO:root:faces: 0 and eyes: 1 at 2017-07-30 13:45:11.333906
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:11.458950
+INFO:root:faces: 2 and eyes: 0 at 2017-07-30 13:45:11.609552
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:11.759166
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:11.953878
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:12.892571
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:12.959632
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:13.295216
+INFO:root:faces: 0 and eyes: 0 at 2017-07-30 13:45:13.432063
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:45:13.720220
+INFO:root:faces: 1 and eyes: 1 at 2017-07-30 13:46:23.654943
+INFO:root:faces: 0 and eyes: 2 at 2017-07-30 13:46:26.077257
+INFO:root:faces: 1 and eyes: 0 at 2017-07-30 13:46:29.425491
+INFO:root:faces: 1 at 2017-07-30 15:20:58.937474
+INFO:root:faces: 0 at 2017-07-30 15:20:59.006204
+INFO:root:faces: 1 at 2017-07-30 15:20:59.143346
+INFO:root:faces: 2 at 2017-07-30 15:21:01.365752
+INFO:root:faces: 1 at 2017-07-30 15:21:01.425775
+INFO:root:faces: 0 at 2017-07-30 15:21:01.483495
+INFO:root:faces: 1 at 2017-07-30 15:21:01.932869
+INFO:root:faces: 0 at 2017-07-30 15:21:01.968588
+INFO:root:faces: 1 at 2017-07-30 15:21:07.239004
+INFO:root:faces: 0 at 2017-07-30 15:21:07.282361
+INFO:root:faces: 1 at 2017-07-30 15:21:12.981184
+INFO:root:faces: 0 at 2017-07-30 15:21:13.027505
+INFO:root:faces: 1 at 2017-07-30 15:21:15.207514
+INFO:root:faces: 0 at 2017-07-30 15:21:15.263784
+INFO:root:faces: 1 at 2017-07-30 15:21:15.683378
+INFO:root:faces: 0 at 2017-07-30 15:21:15.856828
+INFO:root:faces: 1 at 2017-07-30 15:21:18.300092
+INFO:root:faces: 2 at 2017-07-30 15:21:19.238361
+INFO:root:faces: 1 at 2017-07-30 15:21:21.067707
+INFO:root:faces: 0 at 2017-07-30 15:21:21.127970
+INFO:root:faces: 1 at 2017-07-30 15:21:21.343511
+INFO:root:faces: 0 at 2017-07-30 15:21:21.385857
+INFO:root:faces: 1 and eyes: 1 at 2017-08-02 20:33:38.589878
+INFO:root:faces: 0 and eyes: 0 at 2017-08-02 20:33:38.786763
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:40.540700
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:40.583123
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:40.808043
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:40.951099
+INFO:root:faces: 1 and eyes: 0 at 2017-08-02 20:33:42.195438
+INFO:root:faces: 0 and eyes: 0 at 2017-08-02 20:33:42.326773
+INFO:root:faces: 1 and eyes: 1 at 2017-08-02 20:33:42.404544
+INFO:root:faces: 0 and eyes: 1 at 2017-08-02 20:33:42.733148
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:42.815983
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:43.089913
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:43.830174
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:43.884084
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:43.982533
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:44.796511
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:44.865170
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:45.115201
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:45.187580
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:45.239134
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:45.364798
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:45.489041
+INFO:root:faces: 1 and eyes: 2 at 2017-08-02 20:33:45.719670
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:45.916683
+INFO:root:faces: 1 and eyes: 1 at 2017-08-02 20:33:46.045781
+INFO:root:faces: 0 and eyes: 1 at 2017-08-02 20:33:46.235929
+INFO:root:faces: 1 and eyes: 1 at 2017-08-02 20:33:48.141309
+INFO:root:faces: 0 and eyes: 1 at 2017-08-02 20:33:48.333766
+INFO:root:faces: 1 and eyes: 1 at 2017-08-02 20:33:48.415459
+INFO:root:faces: 0 and eyes: 2 at 2017-08-02 20:33:48.675486
